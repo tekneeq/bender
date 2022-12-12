@@ -1,0 +1,165 @@
+
+
+{
+    "Passing": {
+        "Tom Brady": {
+            "Team": "TB",
+            "C/ATT": "18/27",
+            "YDS": "212",
+            "TD": 1,
+            "INT": 1,
+        },
+        "Dak Prescott": {
+            "Team": "DAL",
+            "C/ATT": "14/29",
+            "YDS": "134",
+            "TD": 0,
+            "INT": 1,
+        },
+        "Cooper Rush": {
+            "Team": "DAL",
+            "C/ATT": "7/13",
+            "YDS": "64",
+            "TD": 0,
+            "INT": 0,
+        }
+    },
+    "Rushing": {
+        "Leonard Fournette": {
+            "Team": "TB",
+            "CAR": 21,
+            "YDS": 127,
+            "TD": 0,
+            "Long": 17
+        },
+        "Rachaad White": {
+            "Team": "TB",
+            "CAR": 6,
+            "YDS": 14,
+            "TD": 0,
+            "Long": 5
+        },
+        "Ezekiel Elliot": {
+            "Team": "DAL",
+            "CAR": 10,
+            "YDS": 52,
+            "TD": 0,
+            "Long": 7
+        }
+    },
+    "Receiving": {
+        "Mike Evans": {
+            "Team": "TB",
+            "REC": 5,
+            "YDS": 71,
+            "TD": 1,
+            "Long": 20,
+            "TGT": 7
+        },
+        "Julio Jones": {
+            "Team": "TB",
+            "REC": 3,
+            "YDS": 69,
+            "TD": 0,
+            "Long": 48,
+            "TGT": 5
+        },
+        "Chris Godwin": {
+            "Team": "TB",
+            "REC": 3,
+            "YDS": 35,
+            "TD": 0,
+            "Long": 24,
+            "TGT": 3
+        },
+        "Russel Gage": {
+            "Team": "TB",
+            "REC": 2,
+            "YDS": 13,
+            "TD": 0,
+            "Long": 7,
+            "TGT": 2
+        },
+        "Leonard Fournette": {
+            "Team": "TB",
+            "REC": 2,
+            "YDS": 10,
+            "TD": 0,
+            "Long": 9,
+            "TGT": 2
+        },
+        "Rachaad White": {
+            "Team": "TB",
+            "REC": 0,
+            "YDS": 00,
+            "TD": 0,
+            "Long": 0,
+            "TGT": 3
+        },
+        "Cameron Brate": {
+            "Team": "TB",
+            "REC": 1,
+            "YDS": 7,
+            "TD": 0,
+            "Long": 7,
+            "TGT": 3
+        },
+        "Noah Brown": {
+            "Team": "DAL",
+            "REC": 5,
+            "YDS": 68,
+            "TD": 0,
+            "Long": 22,
+            "TGT": 9
+        },
+        "Dalton Schultz": {
+            "Team": "DAL",
+            "REC": 7,
+            "YDS": 62,
+            "TD": 0,
+            "Long": 14,
+            "TGT": 9
+        },
+        "CeeDee Lamb": {
+            "Team": "DAL",
+            "REC": 2,
+            "YDS": 29,
+            "TD": 0,
+            "Long": 16,
+            "TGT": 11
+        },
+        "Dennis Houston": {
+            "Team": "DAL",
+            "REC": 2,
+            "YDS": 16,
+            "TD": 0,
+            "Long": 11,
+            "TGT": 5
+        },
+        "Tony Pollard": {
+            "Team": "DAL",
+            "REC": 2,
+            "YDS": 14,
+            "TD": 0,
+            "Long": 10,
+            "TGT": 3
+        },
+        "Simi Fehoko": {
+            "Team": "DAL",
+            "REC": 2,
+            "YDS": 12,
+            "TD": 0,
+            "Long": 7,
+            "TGT": 3
+        },
+        "Ezekiel Elliot": {
+            "Team": "DAL",
+            "REC": 1,
+            "YDS": -3,
+            "TD": 0,
+            "Long": -3,
+            "TGT": 2
+        },
+    }
+
+}
